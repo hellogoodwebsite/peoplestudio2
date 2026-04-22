@@ -1,0 +1,1512 @@
+diff --git a/assets/README.txt b/assets/README.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..98607e8dfb1f89c48cb57acf1268c04a8b7cef85
+--- /dev/null
++++ b/assets/README.txt
+@@ -0,0 +1 @@
++Local assets for the static Acuity homepage clone.
+diff --git a/assets/favicon.ico b/assets/favicon.ico
+new file mode 100644
+index 0000000000000000000000000000000000000000..0c4e4ab5993855dbe54ca4699a0df579b6c5fd27
+GIT binary patch
+literal 15406
+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
+Uwe};{gZ|^!e|!i2pT7hD3%$~IZvX%Q
+
+literal 0
+HcmV?d00001
+
+diff --git a/index.html b/index.html
+index 40ff876134b1ae014cc0b7a5f779e8f3758beefd..bb2f9b981df55cf92ff69539e274eb7c273461fb 100644
+--- a/index.html
++++ b/index.html
+@@ -1,9 +1,1205 @@
+ <!DOCTYPE html>
+-<html>
+-    <head>
+-        <title>Example</title>
+-    </head>
+-    <body>
+-        <p>This is an example of a simple HTML page with one paragraph.</p>
+-    </body>
++<html lang="en">
++<head>
++  <meta charset="UTF-8" />
++  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
++  <title>Acuity Scheduling: Online Booking & Appointment Scheduling Software</title>
++  <link rel="preconnect" href="https://cdn-marketing.acuityscheduling.com" crossorigin>
++  <link rel="preload" href="https://acuityscheduling.com/font/Clarkson-Light.woff2" as="font" type="font/woff2" crossorigin>
++  <link rel="preload" href="https://acuityscheduling.com/font/Clarkson%20Serif/ClarksonSerif-Medium.woff2" as="font" type="font/woff2" crossorigin>
++  <link rel="icon" type="image/x-icon" href="https://acuityscheduling.com/favicon.ico">
++  <link rel="stylesheet" href="styles.css" />
++</head>
++<body id="body" data-features-benefits-variant="variantC">
++            
++<div class="promo-banner-toast"><img class="promo-banner-toast-check" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/green-check.svg"> Copied to clipboard</div>
++
++<div class="promo-banner hidden">
++	<div class="promo-banner-left"></div>
++	<div class="promo-banner-body">
++		<div class="promo-banner-body-bold">
++			Get started with Acuity Scheduling with 20% off.
++		</div>
++		Use code at checkout:
++		<button class="promo-banner-copy-code">
++			A4F20
++		</button>. Expires April 26, 2026.
++	</div>
++	<div class="promo-banner-right">
++		<a class="promo-banner-terms" href="https://www.squarespace.com/s/sqsp-promotion-terms-and-conditions.pdf" target="_blank">OFFER TERMS</a>
++		<button id="promo-banner-close-btn"><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/close.svg" alt="Close promo"></button>
++	</div>
++</div>            		<nav class="frontsite-header">
++		<div class="menu-container">
++															<div class="navlogo">
++		<a href="https://acuityscheduling.com/" class="navlogo__container" aria-label="Acuity Scheduling home">
++			<span class="navlogo__logo navlogo__acuity">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/nav/logo_acuity_2025.svg" alt="" />
++			</span>
++			<span class="navlogo__logo navlogo__colon">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/nav/logo_colon.svg" alt="" />
++			</span>
++			<span class="navlogo__logo navlogo__scheduling">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/nav/logo_scheduling_2025.svg" alt="" />
++			</span>
++		</a>
++
++	<div class="navlogo__tryscheduling">
++		<span class="navlogo__logo navlogo__tryscheduling-colon">
++			<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/nav/large_colon.svg" alt="" />
++		</span>
++		<a id="mobile-cta-try" class="navlogo__tryscheduling-btn try amp-external "
++			href="https://acuityscheduling.com/get-started?type=professional&btn=nav">Get started</a>
++	</div>
++</div>
++<a href="https://acuityscheduling.com/" class="navlogo--no-animation">
++	<img style="width:168px;" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/acuity-logo-2025.svg"
++alt="Acuity Scheduling a Squarespace Company" /></a>							
++										<button id="nav-hamburger-btn" class="reset-button hamburger-icon" aria-label="Open menu">
++					<img src="https://acuityscheduling.com/img/marketing/squarespace/hamburger-mvp.svg" alt="">
++				</button>
++						<div class="mobile-menu-links__dropdowns--centered" data-tracking-region="nav">
++		<ul class="links">
++											<li>
++    <div class="dropdown products-dropdown">
++        <button class="dropdown__trigger-link">
++            Product
++            <img class="dropdown__chevron" height="16" width="16"
++                src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/chevron-down.svg" alt="Open Dropdown">
++        </button>
++
++        <div class="dropdown__hoverable-content">
++            <div class="dropdown__content">
++                <div class="dropdown__column" data-nav-section="solutions">
++                    <h2>Solutions</h2>
++                    <ul>
++                        <li>
++                            <a href="https://acuityscheduling.com/solutions/beauty?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/health_and_beauty.svg" alt="">
++                                Beauty</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/solutions/business-services?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/cases.svg" alt="">
++                                Business Services</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/solutions/wellness?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/spa.svg" alt="">
++                                Wellness</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/solutions/education?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/school.svg" alt="">
++                                Education</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/solutions/fitness?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/exercise.svg" alt="">
++                                Fitness</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/enterprise?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/language.svg" alt="">
++                                Enterprise</a>
++                        </li>
++                    </ul>
++                    <a href="https://acuityscheduling.com/solutions" class="dropdown__link--underlined">All Solutions</a>
++                </div>
++
++                <div class="dropdown__column" data-nav-section="features">
++                    <h2>Features</h2>
++                    <ul>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/how-acuity-works?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/book-spark.svg" alt="">
++                                How It Works</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features?nav-ref=navbar&dropdown-ref=products#online-booking">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/calendar.svg" alt="">
++                                Online Booking</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/client-management?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/csv.svg" alt="">
++                                Client Management</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/client-loyalty?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/heart.svg" alt="">
++                                Client Loyalty</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/availability-controls?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/adjust.svg" alt="">
++                                Availability Controls</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/calendar-management?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/project.svg" alt="">
++                                Calendar Management</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/payments?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/credit-card.svg" alt="">
++                                Payments</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/invoicing-software?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/receipt.svg" alt="">
++                                Invoicing Software</a>
++                        </li>
++                    </ul>
++                </div>
++
++                <div class="dropdown__column dropdown__column--no-header" data-nav-section="features">
++                    <ul>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/staff-management?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/people.svg" alt="">
++                                Staff Management</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/mobile-app?nav-ref=navbar&dropdown-ref=products#gref">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/mobile.svg" alt="">
++                                Mobile App</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/booking-website-builder?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/website-builder.svg" alt="">
++                                Website Builder</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/point-of-sale?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/point-of-sale.svg" alt="">
++                                Point of Sale</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/appointment-reminders?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/appointment-reminders.svg" alt="">
++                                Appointment Reminders</a>
++                        </li>
++                        <li>
++                            <a href="https://acuityscheduling.com/features/class-scheduling?nav-ref=navbar&dropdown-ref=products">
++                                <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/class-scheduling.svg" alt="">
++                                Class Scheduling</a>
++                        </li>
++                    </ul>
++                    <a href="https://acuityscheduling.com/features" class="dropdown__link--underlined">All Features</a>
++                </div>
++
++            </div>
++        </div>
++    </div>
++</li>
++				<li data-nav-section="resources">
++	<div class="dropdown resources-dropdown">
++		<button class="dropdown__trigger-link">
++			Resources
++			<img class="dropdown__chevron" height="16" width="16"
++				src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/chevron-down.svg" alt="Open Dropdown">
++		</button>
++		<div class="dropdown__hoverable-content">
++			<div class="dropdown__content">
++				<ul>
++					<li>
++						<a href="https://acuityscheduling.com/about?nav-ref=navbar&dropdown-ref=resources">About</a>
++					</li>
++					<li>
++						<a id="dropdown_support-link"
++							href="https://help.acuityscheduling.com//hc?nav-ref=navbar&dropdown-ref=resources">Support</a>
++					</li>
++					<li>
++						<a id="dropdown_forum-link" href="https://forum.acuityscheduling.com/?nav-ref=navbar&dropdown-ref=resources">Forum</a>
++					</li>
++					<li>
++						<a href="https://acuityscheduling.com/learn?nav-ref=navbar&dropdown-ref=resources">Blog</a>
++					</li>
++					<li>
++						<a href="https://acuityscheduling.com/learn/acuity-scheduling-events?nav-ref=navbar&dropdown-ref=resources">Events</a>
++					</li>
++					<li>
++						<a id="dropdown_developers-link"
++							href="https://developers.acuityscheduling.com?nav-ref=navbar&dropdown-ref=resources">Developers</a>
++					</li>
++				</ul>
++			</div>
++		</div>
++	</div>
++</li>
++			
++			<li>
++				<a href="https://acuityscheduling.com/signup.php?entry_point=acuity&btn=nav">
++					Pricing
++				</a>
++			</li>
++		</ul>
++	</div>
++	<ul id="nav-links" class="links" data-nav-section="nav" data-tracking-region="nav">
++		<li class="login" data-nav-section="auth"><a href="https://secure.acuityscheduling.com/login.php?nav=1&btn=nav-bar"
++				data-testid="log-in-link">Log in</a></li>
++		<li data-nav-section="cta">
++			<a id="nav-trial-cta-desktop" class="try amp-external " data-testid="nav-try-scheduling" 				href="https://acuityscheduling.com/get-started?type=professional&btn=nav">
++				Get started
++			</a>
++		</li>
++	</ul>
++
++
++
++					</div>
++
++				<div class="mobile-menu-container">
++			<div class="mobile-menu-overlay"></div>
++			<div class="mobile-menu-content mobile-menu-content--full-height">
++				<div class="mobile-menu-header">
++					<button id="mobile-menu-back-btn" class="reset-button mobile-menu-header__btn back-text back-text--hidden">
++						Back</button>
++											<div></div>
++						<a href="https://acuityscheduling.com/" class="logo">
++							<img style="width:168px;" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/acuity-logo-2025.svg"
++alt="Acuity Scheduling a Squarespace Company" />						</a>
++																		<button id="mobile-menu-close-btn" class="reset-button mobile-menu-header__btn close-text">Close</button>
++										</div>
++
++													<ul id="nav-links-mobile" class="mobile-menu-primary mobile-menu-links" data-tracking-region="nav">
++					<li id="open-products-menu">
++			<button id="open-products-menu-btn" class="reset-button button-link mobile-link" aria-expanded="false"
++				aria-controls="mobile-menu-products">
++				Product
++				<img class="authed-dropdown__chevron" src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/chevron-down.svg" alt="Open Dropdown">
++			</button>
++
++							<div id="mobile-menu-products" class="mobile-menu-links mobile-menu-products mobile-menu-products--hidden "
++    role="region" aria-labelledby="open-products-menu-btn">
++    <div data-nav-section="features">
++        <h2>Features</h2>
++        <ul>
++            <li>
++                <a href="https://acuityscheduling.com/features/how-acuity-works?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/book-spark.svg" alt="">
++                    How it works
++                </a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features?nav-ref=navbar&dropdown-ref=products#online-booking">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/calendar.svg" alt="">
++                    Online Booking</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features/client-management?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/csv.svg" alt="">
++                    Client Management</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features/availability-controls?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/adjust.svg" alt="">
++                    Availability Controls</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features/calendar-management?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/project.svg" alt="">
++                    Calendar Management</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features/payments?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/credit-card.svg" alt="">
++                    Payments</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features/mobile-app?nav-ref=navbar&dropdown-ref=products#gref">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/mobile.svg" alt="">
++                    Mobile App</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features/booking-website-builder?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/website-builder.svg" alt="">
++                    Website Builder</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features/point-of-sale?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/point-of-sale.svg" alt="">
++                    Point of Sale</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features/appointment-reminders?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/appointment-reminders.svg" alt="">
++                    Appointment Reminders</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features/class-scheduling?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/class-scheduling.svg" alt="">
++                    Class Scheduling</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/features?nav-ref=navbar&dropdown-ref=products" class="mobile-menu-links--underlined">
++                    All Features
++                </a>
++            </li>
++        </ul>
++    </div>
++
++    <div data-nav-section="solutions">
++        <h2>Solutions</h2>
++        <ul>
++            <li>
++                <a href="https://acuityscheduling.com/solutions/beauty?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/health_and_beauty.svg" alt="">
++                    Beauty</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/solutions/business-services?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/cases.svg" alt="">
++                    Business Services</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/solutions/wellness?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/spa.svg" alt="">
++                    Wellness</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/solutions/education?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/school.svg" alt="">
++                    Education</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/solutions/fitness?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/exercise.svg" alt="">
++                    Fitness</a>
++            </li>
++            <li>
++                <a href="https://acuityscheduling.com/enterprise?nav-ref=navbar&dropdown-ref=products">
++                    <img src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/language.svg" alt="">
++                    Enterprise</a>
++            </li>
++            <li class="dropdown__link--underlined">
++                <a href="https://acuityscheduling.com/solutions?nav-ref=navbar&dropdown-ref=products" class="mobile-menu-links--underlined">
++                    All Solutions
++                </a>
++            </li>
++        </ul>
++    </div>
++</div>
++					</li>
++	
++	
++	<li id="open-resources-menu">
++		<button id="open-resources-menu-btn" class="reset-button button-link mobile-link" aria-expanded="false"
++			aria-controls="mobile-menu-resources">
++			Resources
++			<img class="authed-dropdown__chevron" src="https://cdn-marketing.acuityscheduling.com/img/marketing/nav/chevron-down.svg" alt="Open Dropdown">
++		</button>
++		<div class="open-resources-menu__wrapper">
++			<div role="region" aria-labelledby="open-resources-menu-btn" data-nav-section="resources">
++	<ul id="mobile-menu-resources" class="mobile-menu-links mobile-menu-resources mobile-menu-resources--hidden">
++		<li>
++			<a href="https://acuityscheduling.com/about?nav-ref=navbar&dropdown-ref=resources">About</a>
++		</li>
++		<li>
++			<a id="mobile-menu_support-link"
++				href="https://help.acuityscheduling.com//hc?nav-ref=navbar&dropdown-ref=resources">Support</a>
++		</li>
++		<li>
++			<a id="mobile-menu_forum-link" href="https://forum.acuityscheduling.com/?nav-ref=navbar&dropdown-ref=resources">Forum</a>
++		</li>
++		<li>
++			<a href="https://acuityscheduling.com/learn?nav-ref=navbar&dropdown-ref=resources">Blog</a>
++		</li>
++		<li>
++			<a href="https://acuityscheduling.com/learn/acuity-scheduling-events?nav-ref=navbar&dropdown-ref=resources">Events</a>
++		</li>
++		<li>
++			<a id="mobile-menu_developers-link"
++				href="https://developers.acuityscheduling.com?nav-ref=navbar&dropdown-ref=resources">Developers</a>
++		</li>
++	</ul>
++</div>
++		</div>
++	</li>
++
++		<li>
++		<a href="https://acuityscheduling.com/signup.php?entry_point=acuity&btn=nav">
++			Pricing
++		</a>
++	</li>
++
++	<li aria-hidden="true" class="mobile-menu-primary__gap">
++			</li>
++
++					<li class="mobile-menu-primary__cta">
++			<a class="mobile-menu-primary__cta-login" href="https://secure.acuityscheduling.com/login.php?nav=1&btn=nav-bar"
++				data-testid="log-in-link">
++				Log in
++			</a>
++		</li>
++
++				<li class="mobile-menu-primary__cta">
++			<a id="trial-cta-nav-mobile" class="mobile-menu-primary__cta-get-started"
++			   href="https://acuityscheduling.com/get-started?type=professional&btn=nav-menu">
++				Get started
++			</a>
++		</li>
++		
++	<li hidden>
++		
++	</li>
++</ul>
++				
++			</div>
++		</div>
++	</nav>
++
++	
++
++        <section class="hero-block" data-scheduling-landing-section="hero">
++	<div id="large-csp-hero-block-wrapper" class="large-csp-hero-block-wrapper">
++	<div class="large-csp-hero__gradient"></div>
++		<div id="large-csp-hero-block">
++			<div class="cta-container">
++			<h1>Scheduling software to power exceptional client experiences</h1>
++			<p class="hero-block-caption">Book appointments, take payments, and automate the busywork, so you can deliver standout service every time.</p>
++				<div class="cta-button-wrapper">
++				<a id="hero-cta"
++					href="https://acuityscheduling.com/get-started?type=professional&btn=home-hero"
++					data-testid="get-started-button">
++					Get started</a>
++					<p class="hero-block-credit-card-copy">No credit card needed</p>
++			</div>
++		</div>
++		
++<div class="large-csp__carousel-wrapper">
++	<div class="large-csp__carousel-window">
++		<div id="large-csp-carousel" class="large-csp__carousel-frame-container">
++			<div id="large-csp-dummy-head" class="large-csp__carousel-frame"></div>
++							<div data-csp-id="5" class="large-csp-item large-csp__carousel-frame ">
++					<div class="large-csp-carousel-frame__slide-wrapper">
++						<div class="large-csp-carousel-frame__slide">
++							<picture class="large-csp-carousel__main-content" alt="">
++								<source srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-6-mobile.webp" media="(max-width: 744px)" />
++								<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-6-web.webp" fetchpriority="auto" />
++							</picture>
++						</div>
++					</div>
++				</div>
++							<div data-csp-id="6" class="large-csp-item large-csp__carousel-frame ">
++					<div class="large-csp-carousel-frame__slide-wrapper">
++						<div class="large-csp-carousel-frame__slide">
++							<picture class="large-csp-carousel__main-content" alt="">
++								<source srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-7-mobile.webp" media="(max-width: 744px)" />
++								<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-7-web.webp" fetchpriority="auto" />
++							</picture>
++						</div>
++					</div>
++				</div>
++							<div data-csp-id="7" class="large-csp-item large-csp__carousel-frame ">
++					<div class="large-csp-carousel-frame__slide-wrapper">
++						<div class="large-csp-carousel-frame__slide">
++							<picture class="large-csp-carousel__main-content" alt="">
++								<source srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-8-mobile.webp" media="(max-width: 744px)" />
++								<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-8-web.webp" fetchpriority="auto" />
++							</picture>
++						</div>
++					</div>
++				</div>
++							<div data-csp-id="8" class="large-csp-item large-csp__carousel-frame ">
++					<div class="large-csp-carousel-frame__slide-wrapper">
++						<div class="large-csp-carousel-frame__slide">
++							<picture class="large-csp-carousel__main-content" alt="">
++								<source srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-9-mobile.webp" media="(max-width: 744px)" />
++								<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-9-web.webp" fetchpriority="high" />
++							</picture>
++						</div>
++					</div>
++				</div>
++							<div data-csp-id="0" class="large-csp-item large-csp__carousel-frame large-csp__carousel-frame--active">
++					<div class="large-csp-carousel-frame__slide-wrapper">
++						<div class="large-csp-carousel-frame__slide">
++							<picture class="large-csp-carousel__main-content" alt="">
++								<source srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-1.1-mobile.webp" media="(max-width: 744px)" />
++								<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-1.1-web.webp" fetchpriority="high" />
++							</picture>
++						</div>
++					</div>
++				</div>
++							<div data-csp-id="1" class="large-csp-item large-csp__carousel-frame ">
++					<div class="large-csp-carousel-frame__slide-wrapper">
++						<div class="large-csp-carousel-frame__slide">
++							<picture class="large-csp-carousel__main-content" alt="">
++								<source srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-2-mobile.webp" media="(max-width: 744px)" />
++								<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-2-web.webp" fetchpriority="high" />
++							</picture>
++						</div>
++					</div>
++				</div>
++							<div data-csp-id="2" class="large-csp-item large-csp__carousel-frame ">
++					<div class="large-csp-carousel-frame__slide-wrapper">
++						<div class="large-csp-carousel-frame__slide">
++							<picture class="large-csp-carousel__main-content" alt="">
++								<source srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-3-mobile.webp" media="(max-width: 744px)" />
++								<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-3-web.webp" fetchpriority="auto" />
++							</picture>
++						</div>
++					</div>
++				</div>
++							<div data-csp-id="3" class="large-csp-item large-csp__carousel-frame ">
++					<div class="large-csp-carousel-frame__slide-wrapper">
++						<div class="large-csp-carousel-frame__slide">
++							<picture class="large-csp-carousel__main-content" alt="">
++								<source srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-4-mobile.webp" media="(max-width: 744px)" />
++								<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-4-web.webp" fetchpriority="auto" />
++							</picture>
++						</div>
++					</div>
++				</div>
++							<div data-csp-id="4" class="large-csp-item large-csp__carousel-frame ">
++					<div class="large-csp-carousel-frame__slide-wrapper">
++						<div class="large-csp-carousel-frame__slide">
++							<picture class="large-csp-carousel__main-content" alt="">
++								<source srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-5-mobile.webp" media="(max-width: 744px)" />
++								<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/hero-carousel/csp-large/csp-large-5-web.webp" fetchpriority="auto" />
++							</picture>
++						</div>
++					</div>
++				</div>
++						<div id="large-csp-dummy-tail" class="large-csp__carousel-frame "></div>
++		</div>
++	</div>
++</div>				</div>
++	</div>
++	<div class="hero-overlay hero-overlay--closed hero-overlay--hidden">
++		<div class="hero-overlay-header">
++			<button class="hero-overlay-header__close-btn">
++				<svg viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
++					<rect x="20.7842" y="22.4998" width="20" height="1.5" transform="rotate(-135 20.7842 22.4998)"></rect>
++					<rect x="21.7842" y="8.5" width="20" height="1.5" transform="rotate(135 21.7842 8.5)"></rect>
++				</svg>
++			</button>
++		</div>
++		<div class="hero-overlay__video-wrapper">
++			<div class="hero-overlay__video">
++				<iframe id="hero-overlay-video-embed" src="" title="Acuity Reveal " frameborder="0" allowfullscreen></iframe>
++				</iframe>
++			</div>
++		</div>
++	</div>
++</section>
++
++    <div class="frontsite-context-stack">                     <section class="feature-area" data-scheduling-landing-section="control-your-availability">
++            <h2 class="feature-area__heading">Everything you need to run your business</h2>
++        <div class="feature-area-cards">
++                    <div
++	class="feature-area-card feature-area-card--variant-c feature-area-card--shadow">
++	<div class="feature-area-card__text">
++		<h2 class="feature-area-card__header">Book beautifully, 24/7</h2>
++		<div class="feature-area-card__description">Set up any type of appointment and let clients easily self-schedule on your branded booking page.</div>
++					<a class="feature-area-card__cta-button" id="book-beautifully-cta" href="https://acuityscheduling.com/get-started?type=professional&btn=book-beautifully">
++				Create your free booking page
++			</a>
++					</div>
++	<div class="feature-area-card__content">
++					<img class="feature-area-card__desktop-image" alt="Book beautifully, 24/7" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/features-benefits-v1/book-beautifully-desktop.avif" loading="lazy" />
++							<video
++				class="feature-area-card__video feature-area-card__video--has-desktop-image"
++				muted loop playsinline preload="none"
++								data-src-tablet="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/features-benefits-v1/book-beautifully-tablet.mp4" data-src-mobile="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/features-benefits-v1/book-beautifully-mobile.mp4">
++			</video>
++			</div>
++</div>                <div class="feature-area-cards--middle">
++                            <div class="feature-area-card feature-area-card--middle-variant-c">
++	<div class="feature-area-card__content">
++					<picture>
++				<source media="(max-width: 744px)" srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/features-benefits-v1/variant-c/mobile-no-shows.avif" />
++				<source media="(max-width: 1024px)" srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/features-benefits-v1/variant-c/tablet-no-show.avif" />
++				<img class="feature-area-card__image" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/features-benefits-v1/variant-c/desktop-no-shows.avif" alt="Reduce no-shows" loading="lazy" />
++			</picture>
++			</div>
++	<div class="feature-area-card__text">
++		<h2 class="feature-area-card__header">Reduce no-shows</h2>
++		<div class="feature-area-card__description">75% of Acuity businesses have reduced no-shows with deposits, appointment reminders, and cancelation policies.</div>
++					<a href="https://acuityscheduling.com/features/no-show-prevention" class="feature-area-card__link">Learn more &rarr;</a>
++			</div>
++</div>                <div class="feature-area-card feature-area-card--middle-variant-c">
++	<div class="feature-area-card__content">
++					<video class="feature-area-card__video" muted loop playsinline preload="none" data-src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/feature-area/03.mp4">
++				<source data-src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/feature-area/03.mp4" type="video/mp4" />
++			</video>
++			</div>
++	<div class="feature-area-card__text">
++		<h2 class="feature-area-card__header">Automate your day</h2>
++		<div class="feature-area-card__description">Collect client info with custom intake forms, prevent double-bookings with calendar sync, and send timely notifications. Manage staff and resource availability with ease.</div>
++					<a href="https://acuityscheduling.com/features/task-automation" class="feature-area-card__link">Learn more &rarr;</a>
++			</div>
++</div>                    </div>
++                    <div
++	class="feature-area-card feature-area-card--variant-c">
++	<div class="feature-area-card__text">
++		<h2 class="feature-area-card__header">Boost your earnings</h2>
++		<div class="feature-area-card__description">Offer packages, subscriptions, gift certificates, add-ons, and coupons. Accept payments securely and track bookings and revenue in one place.</div>
++							<a href="https://acuityscheduling.com/features/revenue-growth" class="feature-area-card__link">Learn more &rarr;</a>
++			</div>
++	<div class="feature-area-card__content">
++							<video class="feature-area-card__video" muted loop playsinline preload="none" data-src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/feature-area/04.mp4">
++				<source data-src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/feature-area/04.mp4" type="video/mp4" />
++			</video>
++			</div>
++</div>            </div>
++</section>        
++        
++<section class="adapt-business">
++	<div class="adapt-business__header">
++		<h2>Appointment software that adapts to your business</h2>
++		<div class="adapt-business__header-space"></div>
++		<p>Free up time in your day with scheduling tools tailored to your needs</p>
++	</div>
++	<div class="adapt-business__carousel-wrapper" data-scheduling-landing-section="vertical-tailored">
++		<div class="adapt-business__carousel adapt-business__carousel--scrolling">
++							<div class="adapt-business-card">
++	<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/education.webp"
++		srcset=" https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/education.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/education@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/education@3x.webp 3x"
++		alt="Education and Tutoring" loading="lazy"></img>
++	<h3>
++		Education and Tutoring
++	</h3>
++	<div class="adapt-business-card__tags adapt-business-card__tags--short">
++									<div class="adapt-business-card__pill">Tutoring</div>
++												<div class="adapt-business-card__pill">Language training</div>
++												<div class="adapt-business-card__pill">Show more...</div>
++	</div>
++	<div class="adapt-business-card__tags adapt-business-card__tags--long adapt-business-card__tags--hidden">
++					<div class="adapt-business-card__pill">Tutoring</div>
++					<div class="adapt-business-card__pill">Language training</div>
++					<div class="adapt-business-card__pill">Test preparation</div>
++			</div>
++</div>							<div class="adapt-business-card">
++	<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/financial.webp"
++		srcset=" https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/financial.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/financial@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/financial@3x.webp 3x"
++		alt="Financial, Public and Legal Services" loading="lazy"></img>
++	<h3>
++		Financial, Public and Legal Services
++	</h3>
++	<div class="adapt-business-card__tags adapt-business-card__tags--short">
++									<div class="adapt-business-card__pill">Tax firm</div>
++												<div class="adapt-business-card__pill">Law firm</div>
++																	<div class="adapt-business-card__pill">Show more...</div>
++	</div>
++	<div class="adapt-business-card__tags adapt-business-card__tags--long adapt-business-card__tags--hidden">
++					<div class="adapt-business-card__pill">Tax firm</div>
++					<div class="adapt-business-card__pill">Law firm</div>
++					<div class="adapt-business-card__pill">Consulting</div>
++					<div class="adapt-business-card__pill">Higher education</div>
++			</div>
++</div>							<div class="adapt-business-card">
++	<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/pet.webp"
++		srcset=" https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/pet.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/pet@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/pet@3x.webp 3x"
++		alt="Pet Care and Grooming" loading="lazy"></img>
++	<h3>
++		Pet Care and Grooming
++	</h3>
++	<div class="adapt-business-card__tags adapt-business-card__tags--short">
++									<div class="adapt-business-card__pill">Veterinary services</div>
++												<div class="adapt-business-card__pill">Pet grooming</div>
++												<div class="adapt-business-card__pill">Show more...</div>
++	</div>
++	<div class="adapt-business-card__tags adapt-business-card__tags--long adapt-business-card__tags--hidden">
++					<div class="adapt-business-card__pill">Veterinary services</div>
++					<div class="adapt-business-card__pill">Pet grooming</div>
++					<div class="adapt-business-card__pill">Dog Training & walking</div>
++			</div>
++</div>							<div class="adapt-business-card">
++	<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/utility.webp"
++		srcset=" https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/utility.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/utility@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/utility@3x.webp 3x"
++		alt="Automotive and Maintenance" loading="lazy"></img>
++	<h3>
++		Automotive and Maintenance
++	</h3>
++	<div class="adapt-business-card__tags adapt-business-card__tags--short">
++									<div class="adapt-business-card__pill">Auto & bike repair</div>
++												<div class="adapt-business-card__pill">Cleaning & organizing</div>
++												<div class="adapt-business-card__pill">Show more...</div>
++	</div>
++	<div class="adapt-business-card__tags adapt-business-card__tags--long adapt-business-card__tags--hidden">
++					<div class="adapt-business-card__pill">Auto & bike repair</div>
++					<div class="adapt-business-card__pill">Cleaning & organizing</div>
++					<div class="adapt-business-card__pill">Home construction & inspection</div>
++			</div>
++</div>							<div class="adapt-business-card">
++	<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/health.webp"
++		srcset=" https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/health.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/health@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/health@3x.webp 3x"
++		alt="Health and Medical" loading="lazy"></img>
++	<h3>
++		Health and Medical
++	</h3>
++	<div class="adapt-business-card__tags adapt-business-card__tags--short">
++									<div class="adapt-business-card__pill">Optometry</div>
++												<div class="adapt-business-card__pill">Pharmacy</div>
++																						<div class="adapt-business-card__pill">Show more...</div>
++	</div>
++	<div class="adapt-business-card__tags adapt-business-card__tags--long adapt-business-card__tags--hidden">
++					<div class="adapt-business-card__pill">Optometry</div>
++					<div class="adapt-business-card__pill">Pharmacy</div>
++					<div class="adapt-business-card__pill">Mental health therapy</div>
++					<div class="adapt-business-card__pill">Nutritional counseling</div>
++					<div class="adapt-business-card__pill">Med spa</div>
++			</div>
++</div>							<div class="adapt-business-card">
++	<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/coaching.webp"
++		srcset=" https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/coaching.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/coaching@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/coaching@3x.webp 3x"
++		alt="Coaching and Experts" loading="lazy"></img>
++	<h3>
++		Coaching and Experts
++	</h3>
++	<div class="adapt-business-card__tags adapt-business-card__tags--short">
++									<div class="adapt-business-card__pill">Photography services</div>
++												<div class="adapt-business-card__pill">Performance arts lessons</div>
++																	<div class="adapt-business-card__pill">Show more...</div>
++	</div>
++	<div class="adapt-business-card__tags adapt-business-card__tags--long adapt-business-card__tags--hidden">
++					<div class="adapt-business-card__pill">Photography services</div>
++					<div class="adapt-business-card__pill">Performance arts lessons</div>
++					<div class="adapt-business-card__pill">Life coaching</div>
++					<div class="adapt-business-card__pill">Spiritual coaching</div>
++			</div>
++</div>							<div class="adapt-business-card">
++	<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/beauty.webp"
++		srcset=" https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/beauty.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/beauty@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/beauty@3x.webp 3x"
++		alt="Hair, Nails and Beauty Services" loading="lazy"></img>
++	<h3>
++		Hair, Nails and Beauty Services
++	</h3>
++	<div class="adapt-business-card__tags adapt-business-card__tags--short">
++									<div class="adapt-business-card__pill">Hair stylist</div>
++												<div class="adapt-business-card__pill">Nail & wax salon</div>
++																	<div class="adapt-business-card__pill">Show more...</div>
++	</div>
++	<div class="adapt-business-card__tags adapt-business-card__tags--long adapt-business-card__tags--hidden">
++					<div class="adapt-business-card__pill">Hair stylist</div>
++					<div class="adapt-business-card__pill">Nail & wax salon</div>
++					<div class="adapt-business-card__pill">Lash extension</div>
++					<div class="adapt-business-card__pill">Tattoo Studio</div>
++			</div>
++</div>							<div class="adapt-business-card">
++	<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/wellness.webp"
++		srcset=" https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/wellness.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/wellness@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/wellness@3x.webp 3x"
++		alt="Spa and Wellness" loading="lazy"></img>
++	<h3>
++		Spa and Wellness
++	</h3>
++	<div class="adapt-business-card__tags adapt-business-card__tags--short">
++									<div class="adapt-business-card__pill">Spa and Skin Care</div>
++												<div class="adapt-business-card__pill">Massage Therapy</div>
++																						<div class="adapt-business-card__pill">Show more...</div>
++	</div>
++	<div class="adapt-business-card__tags adapt-business-card__tags--long adapt-business-card__tags--hidden">
++					<div class="adapt-business-card__pill">Spa and Skin Care</div>
++					<div class="adapt-business-card__pill">Massage Therapy</div>
++					<div class="adapt-business-card__pill">Acupuncture</div>
++					<div class="adapt-business-card__pill">Meditation</div>
++					<div class="adapt-business-card__pill">Reiki Therapy</div>
++			</div>
++</div>							<div class="adapt-business-card">
++	<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/fitness.webp"
++		srcset=" https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/fitness.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/fitness@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/fitness@3x.webp 3x"
++		alt="Fitness and Sports Training" loading="lazy"></img>
++	<h3>
++		Fitness and Sports Training
++	</h3>
++	<div class="adapt-business-card__tags adapt-business-card__tags--short">
++									<div class="adapt-business-card__pill">Personal Training</div>
++												<div class="adapt-business-card__pill">Pilates</div>
++																	<div class="adapt-business-card__pill">Show more...</div>
++	</div>
++	<div class="adapt-business-card__tags adapt-business-card__tags--long adapt-business-card__tags--hidden">
++					<div class="adapt-business-card__pill">Personal Training</div>
++					<div class="adapt-business-card__pill">Pilates</div>
++					<div class="adapt-business-card__pill">Yoga</div>
++					<div class="adapt-business-card__pill">Sports lessons</div>
++			</div>
++</div>					</div>
++	</div>
++</section>        
++        <div class="bottom-section">
++            <section class="integrations-v2" data-scheduling-landing-section="integration-module">
++	<div class="integrations-v2__content">
++		<h2 class="integrations-v2__heading">Connect your calendar and so much more</h2>
++		<p class="integrations-v2__description">Connect Acuity to the calendars, payment processors, marketing apps, and
++			automation platforms you already use to optimize your work flow.</p>
++		<a href="https://acuityscheduling.com/integrations" class="integrations-v2__cta">
++			<span class="integrations-v2__cta-label">View integrations</span>
++			<span class="integrations-v2__cta-arrow" aria-hidden="true">&rarr;</span>
++		</a>
++	</div>
++	<div class="integrations-v2__panel">
++		<div class="integrations-v2__grid">
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/gcal.svg" alt="Google Calendar"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/apple-cal.svg"
++					alt="Apple Calendar" loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/stripe.svg" alt="Stripe"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/square2.svg" alt="Square"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/paypal.svg" alt="PayPal"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/quickbooks.svg" alt="QuickBooks"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/gmeet.svg" alt="Google Meet"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/zoom.svg" alt="Zoom"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/squarespace.svg"
++					alt="Squarespace" loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/zapier.svg" alt="Zapier"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/ganalytics.svg"
++					alt="Google Analytics" loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/icloud.svg" alt="iCloud"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/instagram.svg" alt="Instagram"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/facebook.svg" alt="Facebook"
++					loading="lazy">
++			</div>
++			<div class="integrations-v2__tile integrations-v2__tile--mailchimp">
++				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/integrations/v2/update/mailchimp.svg" alt="mailchimp"
++					loading="lazy">
++			</div>
++		</div>
++	</div>
++</section>            <section class="support" data-scheduling-landing-section="support-center">
++	<div class="support__container">
++		<div class="support__content">
++			<h2>Knowing your name is only the beginning.</h2>
++			<p>Our global award-winning team of real (awesome) humans proudly support over 250,000 customers. Whatever you
++				need, we'll be there to help you take over the world, one problem-solving conversation at a time.</p>
++			<div class="support__content-links">
++				<a href="https://help.acuityscheduling.com/">Visit Help Center</a>
++				<a href="https://learning.squarespace.com/webinars">Webinars</a>
++				<a href="https://acuityscheduling.com/learn">Blog</a>
++			</div>
++		</div>
++		<div class="support__image">
++			<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/support.webp"
++				srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/support.webp 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/support@2x.webp 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/support@3x.webp 3x"
++				alt="People with laptops and dog" loading="lazy">
++		</div>
++	</div>
++</section>            <section class="bottom-cta" data-scheduling-landing-section="take-control">
++	<h2>Ready to take control of your schedule?</h2>
++	<a id="pre-footer-cta"
++		href="https://acuityscheduling.com/get-started?type=professional&btn=pre-footer"
++		class="bottom-cta__button">Get started for free</a>
++</section>
++        </div>
++        <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
++	<symbol id="footer-chevron-icon" viewBox="0 0 22 22" fill="none">
++		<path d="M4 6.25V9L11 16L18 9V6.25L11 13.25L4 6.25Z" fill="#313131" />
++	</symbol>
++</svg>
++<footer class="frontsite-footer" data-tracking-region="footer" 	data-scheduling-landing-section="footer" >
++	<div class="container" >
++					<div class="frontsite-footer__content">
++								<div class="frontsite-footer__top-section">
++										<span class="frontsite-footer__logo desktop-logo"><img
++							src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/frontsite/nav/large_colon.svg" alt="Acuity Colon"></span>
++
++										<div class="frontsite-footer__nav-container">
++												<div class="frontsite-footer__links__container" id="footer-get-started">
++							<button class="footer-link-title" data-item="footer-get-started">
++								<h3>Get Started</h3>
++								<div class="footer-links-nav-item-button">
++									<svg class="footer-chevron-icon" aria-hidden="true">
++										<use href="#footer-chevron-icon" />
++									</svg>
++								</div>
++							</button>
++							<div class="footer-links">
++								<ul>
++									<li><a href="https://acuityscheduling.com/">Home</a></li>
++									<li><a href="https://acuityscheduling.com/about">About Us</a></li>
++									<li><a href="https://acuityscheduling.com/features/how-acuity-works">How Acuity Works</a></li>
++									<li><a href="https://acuityscheduling.com/signup.php">Pricing</a></li>
++								</ul>
++							</div>
++						</div>
++
++												<div class="frontsite-footer__links__container" id="footer-features">
++							<button class="footer-link-title" data-item="footer-features">
++								<h3>Features</h3>
++								<div class="footer-links-nav-item-button">
++									<svg class="footer-chevron-icon" aria-hidden="true">
++										<use href="#footer-chevron-icon" />
++									</svg>
++								</div>
++							</button>
++							<div class="footer-links">
++								<ul>
++									<li><a href="https://acuityscheduling.com/features#online-booking">Online Booking</a></li>
++									<li><a href="https://acuityscheduling.com/features/client-management">Client Management</a></li>
++									<li><a href="https://acuityscheduling.com/features/calendar-management">Calendar Management</a></li>
++									<li><a href="https://acuityscheduling.com/features/staff-management">Staff Management</a></li>
++									<li><a href="https://acuityscheduling.com/features/availability-controls">Availability Controls</a></li>
++									<li><a href="https://acuityscheduling.com/features/payments">Payments</a></li>
++									<li><a href="https://acuityscheduling.com/features/mobile-app#gref">Mobile App</a></li>
++									<li><a href="https://www.squarespace.com/" target="_blank">Build a Website</a></li>
++									<li><a href="https://acuityscheduling.com/features">All Features</a></li>
++								</ul>
++							</div>
++						</div>
++
++												<div class="frontsite-footer__links__container" id="footer-solutions">
++							<button class="footer-link-title" data-item="footer-solutions">
++								<h3>Solutions</h3>
++								<div class="footer-links-nav-item-button">
++									<svg class="footer-chevron-icon" aria-hidden="true">
++										<use href="#footer-chevron-icon" />
++									</svg>
++								</div>
++							</button>
++							<div class="footer-links">
++								<ul>
++									<li><a href="https://acuityscheduling.com/solutions/beauty">Beauty & Salons</a></li>
++									<li><a href="https://acuityscheduling.com/solutions/business-services">Business Services</a></li>
++									<li><a href="https://acuityscheduling.com/solutions/wellness">Health & Wellness</a></li>
++									<li><a href="https://acuityscheduling.com/solutions/education">Education & Life Coaching</a></li>
++									<li><a href="https://acuityscheduling.com/solutions/fitness">Fitness & Sports</a></li>
++									<li><a href="https://acuityscheduling.com/solutions">All Businesses</a></li>
++									<li><a href="https://acuityscheduling.com/enterprise">Enterprise</a></li>
++								</ul>
++							</div>
++						</div>
++
++												<div class="frontsite-footer__links__container" id="footer-resources">
++							<button class="footer-link-title" data-item="footer-resources">
++								<h3>Resources</h3>
++								<div class="footer-links-nav-item-button">
++									<svg class="footer-chevron-icon" aria-hidden="true">
++										<use href="#footer-chevron-icon" />
++									</svg>
++								</div>
++							</button>
++							<div class="footer-links">
++								<ul>
++									<li><a href="https://acuityscheduling.com/learn">Blog</a></li>
++									<li><a href="https://acuityscheduling.com/learn/category/Success%20Stories">Customer Testimonials</a></li>
++									<li><a href="https://acuityscheduling.com/learn/category/Tailored%20Tips">Tutorials</a></li>
++									<li><a href="https://developers.acuityscheduling.com/">API Documentation</a></li>
++									<li><a href="https://acuityscheduling.com/integrations">Integrations</a></li>
++									<li><a href="https://www.squarespace.com/about/careers">Careers</a></li>
++								</ul>
++							</div>
++						</div>
++
++												<div class="frontsite-footer__links__container frontsite-footer__support-column" id="footer-support">
++							<button class="footer-link-title" data-item="footer-support">
++								<h3>Support</h3>
++								<div class="footer-links-nav-item-button">
++									<svg class="footer-chevron-icon" aria-hidden="true">
++										<use href="#footer-chevron-icon" />
++									</svg>
++								</div>
++							</button>
++							<div class="footer-links">
++								<ul>
++									<li><a href="https://help.acuityscheduling.com/" onclick="trackHelpLinkClick('footer')">Help Center</a></li>
++									<li><a href="https://forum.acuityscheduling.com/">Forum</a></li>
++									<li><a
++											href="https://webinars.squarespace.com/squarespace/how-to-start-scheduling-with-acuity">Webinars</a>
++									</li>
++									<li><a
++											href="https://www.squarespace.com/designer/browse?project_type=SCHEDULING&channel=&subchannel=scheduling&source=redirect">Acuity
++											Certified Experts</a></li>
++								</ul>
++								<div class="footer-links-subsection footer-links-subsection--desktop">
++									<h4>Compare</h4>
++									<ul>
++										<li><a href="https://acuityscheduling.com/compare/acuity-vs-vagaro">Acuity vs. Vagaro</a></li>
++										<li><a href="https://acuityscheduling.com/compare/acuity-vs-calendly">Acuity vs. Calendly</a></li>
++									</ul>
++								</div>
++							</div>
++						</div>
++					</div>
++				</div>
++
++								<div class="frontsite-footer__links__container frontsite-footer__compare-mobile" id="footer-compare-mobile">
++					<button class="footer-link-title" data-item="footer-compare-mobile">
++						<h3>Compare</h3>
++						<div class="footer-links-nav-item-button">
++							<svg class="footer-chevron-icon" aria-hidden="true">
++								<use href="#footer-chevron-icon" />
++							</svg>
++						</div>
++					</button>
++					<div class="footer-links">
++						<ul>
++							<li><a href="https://acuityscheduling.com/compare/acuity-vs-vagaro">Acuity vs. Vagaro</a></li>
++							<li><a href="https://acuityscheduling.com/compare/acuity-vs-calendly">Acuity vs. Calendly</a></li>
++						</ul>
++					</div>
++				</div>
++			</div>
++
++						<div class="frontsite-footer__bottom">
++								<span class="frontsite-footer__logo mobile-logo"><img style="width:168px;" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/acuity-logo-2025.svg"
++alt="Acuity Scheduling a Squarespace Company" /></span>
++
++								<div class="frontsite-footer__language-selector desktop-language">
++					<div class="frontsite-footer__language-selector__container">
++												<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_globe.svg" alt="" class="frontsite-footer__globe-icon">
++												<a href="https://acuityscheduling.com/language-select.php" class="sl_norewrite" id="marketing-domain"
++							aria-label="Open language picker"></a>
++						<select class="language-selector" aria-label="Select language">
++																						<option value="en-US"  selected="selected" >English
++								</option>
++															<option value="de-DE" >Deutsch
++								</option>
++															<option value="es-ES" >Español
++								</option>
++															<option value="fr-FR" >Français
++								</option>
++															<option value="it-IT" >Italiano
++								</option>
++															<option value="pt-BR" >Português
++								</option>
++													</select>
++						<span class="language-selector-chevron" aria-hidden="true"></span>
++					</div>
++				</div>
++
++								<div class="frontsite-footer__legal" data-nav-section="legal">
++					<a href="https://www.squarespace.com/privacy">Privacy</a>
++					<a href="https://www.squarespace.com/terms-of-service">Terms</a>
++					<div id="teconsent"></div>
++					<a href="https://acuityscheduling.com/accessibility-statement.php">Accessibility</a>
++					<a href="https://www.squarespace.com/imprint">Imprint</a>
++					<a href="https://status.acuityscheduling.com/" target="_blank">Uptime</a>
++				</div>
++
++								<div class="frontsite-footer__social desktop-social" data-nav-section="social">
++					<a href="https://www.instagram.com/acuityscheduling/" target="_blank" aria-label="Follow us on Instagram">
++						<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_instagram_logo.svg" alt="Instagram" class="social-icon">
++					</a>
++					<a href="https://www.pinterest.com/acuity_scheduling/" target="_blank" aria-label="Follow us on Pinterest">
++						<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_pinterest_logo.svg" alt="Pinterest" class="social-icon">
++					</a>
++					<a href="https://www.facebook.com/acuityscheduling/" target="_blank" aria-label="Follow us on Facebook">
++						<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_facebook_logo.svg" alt="Facebook" class="social-icon">
++					</a>
++					<a href="https://www.linkedin.com/company/acuity-scheduling/" target="_blank"
++						aria-label="Follow us on LinkedIn">
++						<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_linkedin_logo.svg" alt="LinkedIn" class="social-icon">
++					</a>
++					<a href="https://www.youtube.com/@AcuitySchedulingOfficial" target="_blank"
++						aria-label="Subscribe to our YouTube channel">
++						<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_youtube_logo.svg" alt="YouTube" class="social-icon">
++					</a>
++				</div>
++
++								<div class="frontsite-footer__language-social-row mobile-language-social">
++										<div class="frontsite-footer__language-selector">
++						<div class="frontsite-footer__language-selector__container">
++														<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_globe.svg" alt="" class="frontsite-footer__globe-icon">
++														<a href="https://acuityscheduling.com/language-select.php" class="sl_norewrite" id="marketing-domain-mobile"
++								aria-label="Open language picker"></a>
++							<select class="language-selector" aria-label="Select language">
++																									<option value="en-US"  selected="selected" >
++										English
++									</option>
++																	<option value="de-DE" >
++										Deutsch
++									</option>
++																	<option value="es-ES" >
++										Español
++									</option>
++																	<option value="fr-FR" >
++										Français
++									</option>
++																	<option value="it-IT" >
++										Italiano
++									</option>
++																	<option value="pt-BR" >
++										Português
++									</option>
++															</select>
++							<span class="language-selector-chevron" aria-hidden="true"></span>
++						</div>
++					</div>
++
++										<div class="frontsite-footer__social" data-nav-section="social">
++						<a href="https://www.instagram.com/acuityscheduling/" target="_blank" aria-label="Follow us on Instagram">
++							<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_instagram_logo.svg" alt="Instagram" class="social-icon">
++						</a>
++						<a href="https://www.pinterest.com/acuity_scheduling/" target="_blank" aria-label="Follow us on Pinterest">
++							<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_pinterest_logo.svg" alt="Pinterest" class="social-icon">
++						</a>
++						<a href="https://www.facebook.com/acuityscheduling/" target="_blank" aria-label="Follow us on Facebook">
++							<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_facebook_logo.svg" alt="Facebook" class="social-icon">
++						</a>
++						<a href="https://www.linkedin.com/company/acuity-scheduling/" target="_blank"
++							aria-label="Follow us on LinkedIn">
++							<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_linkedin_logo.svg" alt="LinkedIn" class="social-icon">
++						</a>
++						<a href="https://www.youtube.com/@AcuitySchedulingOfficial" target="_blank"
++							aria-label="Subscribe to our YouTube channel">
++							<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/footer/footer_youtube_logo.svg" alt="YouTube" class="social-icon">
++						</a>
++					</div>
++				</div>
++			</div>
++		</div>
++		</div>
++</footer>
++
++
++	
++
++
++
++
++				
++				
++	
++
++
++		
++
++	
++
++
++
++
++	
++
++<!-- TrustArc -->
++    </div>
++</body>
++<script src="script.js"></script>
+ </html>
+diff --git a/script.js b/script.js
+new file mode 100644
+index 0000000000000000000000000000000000000000..32150216017ce1148f2ed59a96d96641bc4d3bd3
+--- /dev/null
++++ b/script.js
+@@ -0,0 +1,75 @@
++(() => {
++  const menuContainer = document.querySelector('.menu-container');
++  const mobileMenuContainer = document.querySelector('.mobile-menu-container');
++  const mobileMenuContent = document.querySelector('.mobile-menu-content');
++  const openBtn = document.querySelector('#nav-hamburger-btn');
++  const closeBtn = document.querySelector('#mobile-menu-close-btn');
++
++  const showMobileMenu = () => {
++    if (!mobileMenuContainer) return;
++    if (menuContainer) menuContainer.style.display = 'none';
++    mobileMenuContainer.classList.add('enter');
++    mobileMenuContent?.classList.add('enter');
++    document.body.style.overflow = 'hidden';
++  };
++
++  const hideMobileMenu = () => {
++    if (!mobileMenuContainer) return;
++    mobileMenuContainer.classList.remove('enter');
++    mobileMenuContent?.classList.remove('enter');
++    if (menuContainer) menuContainer.style.display = 'flex';
++    document.body.style.overflow = '';
++  };
++
++  openBtn?.addEventListener('click', showMobileMenu);
++  closeBtn?.addEventListener('click', hideMobileMenu);
++
++  mobileMenuContainer?.addEventListener('click', (event) => {
++    if (event.target === mobileMenuContainer) hideMobileMenu();
++  });
++
++  // Dropdown behavior (mobile/tablet)
++  document.querySelectorAll('.dropdown').forEach((dropdown) => {
++    const trigger = dropdown.querySelector('.dropdown__trigger-link');
++    trigger?.addEventListener('click', (event) => {
++      if (window.matchMedia('(max-width: 1024px)').matches) {
++        event.preventDefault();
++        dropdown.classList.toggle('open');
++      }
++    });
++  });
++
++  // Promo interactions
++  const promoBanner = document.querySelector('.promo-banner');
++  const promoClose = document.querySelector('#promo-banner-close-btn');
++  const promoCopy = document.querySelector('.promo-banner-copy-code');
++  const promoToast = document.querySelector('.promo-banner-toast');
++
++  promoClose?.addEventListener('click', () => {
++    promoBanner?.classList.add('hidden');
++  });
++
++  promoCopy?.addEventListener('click', async () => {
++    try {
++      await navigator.clipboard.writeText('A4F20');
++      promoToast?.classList.add('visible');
++      setTimeout(() => promoToast?.classList.remove('visible'), 1400);
++    } catch (_) {
++      // no-op for clipboard failures in restricted contexts
++    }
++  });
++
++  // "Show more..." pills in industry cards
++  document.querySelectorAll('.adapt-business-card').forEach((card) => {
++    const shortTags = card.querySelector('.adapt-business-card__tags--short');
++    const longTags = card.querySelector('.adapt-business-card__tags--long');
++    const showMore = shortTags?.querySelector('.adapt-business-card__pill:last-child');
++
++    if (!showMore || !longTags) return;
++
++    showMore.addEventListener('click', () => {
++      shortTags?.classList.add('adapt-business-card__tags--hidden');
++      longTags.classList.remove('adapt-business-card__tags--hidden');
++    });
++  });
++})();
+diff --git a/style.css b/style.css
+deleted file mode 100644
+index bd87f9aa6eb4c246ce9d6e42e31893a9d6dc394d..0000000000000000000000000000000000000000
+--- a/style.css
++++ /dev/null
+@@ -1 +0,0 @@
+-<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+diff --git a/styles.css b/styles.css
+new file mode 100644
+index 0000000000000000000000000000000000000000..11edbc519d1e2793a8803fcf2b19a105be4d9fe0
+--- /dev/null
++++ b/styles.css
+@@ -0,0 +1,25 @@
++@import url('https://cdn-marketing.acuityscheduling.com/css/marketing-frontsite.min.css?v=7704a4fa828662ed1dcc8b92ee1d100015b5fb5c');
++
++/* Local overrides for static clone behavior */
++html,
++body {
++  overflow-x: hidden;
++}
++
++.promo-banner-toast {
++  pointer-events: none;
++}
++
++/* Ensure mobile menu can be toggled via local script */
++.mobile-menu-container {
++  display: none;
++}
++
++.mobile-menu-container.enter {
++  display: flex;
++}
++
++/* Static-page polish for links that would hit backend endpoints */
++a[href^="https://acuityscheduling.com/help.php"] {
++  display: none !important;
++}

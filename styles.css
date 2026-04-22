@@ -1,0 +1,25 @@
+@import url('https://cdn-marketing.acuityscheduling.com/css/marketing-frontsite.min.css?v=7704a4fa828662ed1dcc8b92ee1d100015b5fb5c');
+
+/* Local overrides for static clone behavior */
+html,
+body {
+  overflow-x: hidden;
+}
+
+.promo-banner-toast {
+  pointer-events: none;
+}
+
+/* Ensure mobile menu can be toggled via local script */
+.mobile-menu-container {
+  display: none;
+}
+
+.mobile-menu-container.enter {
+  display: flex;
+}
+
+/* Static-page polish for links that would hit backend endpoints */
+a[href^="https://acuityscheduling.com/help.php"] {
+  display: none !important;
+}
