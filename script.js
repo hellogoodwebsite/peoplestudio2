@@ -181,6 +181,78 @@
     });
   });
 
+  // Adapt-business carousel drag/swipe interactions
+  (() => {
+    const carousel = document.querySelector('.adapt-business__carousel');
+    if (!carousel) return;
+
+    const carouselScrollingClass = 'adapt-business__carousel--scrolling';
+    let isDragging = false;
+    let startX = 0;
+
+    const clampCarouselLeft = (left) => {
+      const rightBoundary = window.innerWidth - carousel.offsetWidth - 10;
+      if (left > 0 || window.innerWidth > carousel.offsetWidth) return 0;
+      if (left < rightBoundary) return rightBoundary;
+      return left;
+    };
+
+    const stopAutoScrollBeforeDrag = () => {
+      if (!carousel.classList.contains(carouselScrollingClass)) return;
+      const box = carousel.getBoundingClientRect();
+      carousel.classList.remove(carouselScrollingClass);
+      carousel.style.left = `${box.left}px`;
+    };
+
+    const dragToClientX = (clientX) => {
+      const beginX = startX - carousel.offsetLeft;
+      const nextLeft = clampCarouselLeft(clientX - beginX);
+      carousel.style.left = `${nextLeft}px`;
+    };
+
+    const isTagTarget = (target) =>
+      target?.classList?.contains('adapt-business-card__tags') ||
+      target?.closest?.('.adapt-business-card__tags');
+
+    carousel.addEventListener('mousedown', (event) => {
+      if (isTagTarget(event.target)) return;
+      stopAutoScrollBeforeDrag();
+      isDragging = true;
+      startX = event.clientX;
+      carousel.style.cursor = 'grabbing';
+    });
+
+    window.addEventListener('mouseup', () => {
+      if (!isDragging) return;
+      isDragging = false;
+      carousel.style.cursor = 'grab';
+    });
+
+    carousel.addEventListener('mousemove', (event) => {
+      if (!isDragging) return;
+      event.preventDefault();
+      dragToClientX(event.clientX);
+    });
+
+    carousel.addEventListener('mouseleave', () => {
+      if (!isDragging) return;
+      isDragging = false;
+      carousel.style.cursor = 'grab';
+    });
+
+    carousel.addEventListener('touchstart', (event) => {
+      if (!event.touches.length || isTagTarget(event.target)) return;
+      stopAutoScrollBeforeDrag();
+      startX = event.touches[0].clientX;
+    }, { passive: true });
+
+    carousel.addEventListener('touchmove', (event) => {
+      if (!event.touches.length) return;
+      event.preventDefault();
+      dragToClientX(event.touches[0].clientX);
+    }, { passive: false });
+  })();
+
   // Large CSP hero carousel: autoplay + click navigation + mobile swipe
   (() => {
     const carousel = document.querySelector('#large-csp-carousel');
