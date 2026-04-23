@@ -204,9 +204,9 @@
       carousel.style.left = `${box.left}px`;
     };
 
-    const dragToClientX = (clientX) => {
+    const dragToOffsetX = (offsetX) => {
       const beginX = startX - carousel.offsetLeft;
-      const nextLeft = clampCarouselLeft(clientX - beginX);
+      const nextLeft = clampCarouselLeft(offsetX - beginX);
       carousel.style.left = `${nextLeft}px`;
     };
 
@@ -218,7 +218,7 @@
       if (isTagTarget(event.target)) return;
       stopAutoScrollBeforeDrag();
       isDragging = true;
-      startX = event.clientX;
+      startX = event.offsetX;
       carousel.style.cursor = 'grabbing';
     });
 
@@ -231,7 +231,7 @@
     carousel.addEventListener('mousemove', (event) => {
       if (!isDragging) return;
       event.preventDefault();
-      dragToClientX(event.clientX);
+      dragToOffsetX(event.offsetX);
     });
 
     carousel.addEventListener('mouseleave', () => {
@@ -243,14 +243,26 @@
     carousel.addEventListener('touchstart', (event) => {
       if (!event.touches.length || isTagTarget(event.target)) return;
       stopAutoScrollBeforeDrag();
-      startX = event.touches[0].clientX;
+      isDragging = true;
+      startX = event.touches[0].pageX - event.touches[0].target.offsetLeft;
     }, { passive: true });
 
     carousel.addEventListener('touchmove', (event) => {
-      if (!event.touches.length) return;
+      if (!isDragging || !event.touches.length) return;
       event.preventDefault();
-      dragToClientX(event.touches[0].clientX);
+      const offsetX = event.touches[0].pageX - event.touches[0].target.offsetLeft;
+      dragToOffsetX(offsetX);
     }, { passive: false });
+
+    carousel.addEventListener('touchend', () => {
+      isDragging = false;
+      carousel.style.cursor = 'grab';
+    }, { passive: true });
+
+    carousel.addEventListener('touchcancel', () => {
+      isDragging = false;
+      carousel.style.cursor = 'grab';
+    }, { passive: true });
   })();
 
   // Large CSP hero carousel: autoplay + click navigation + mobile swipe

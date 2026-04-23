@@ -20,30 +20,32 @@ body {
 }
 
 @media (max-width: 1024px) {
-  .menu-container .navlogo {
+  .menu-container {
     display: flex !important;
     align-items: center;
+    gap: 10px;
   }
 
-  .menu-container .navlogo__container {
-    display: none !important;
-  }
-
+  .menu-container .navlogo,
   .menu-container .navlogo--no-animation {
     display: none !important;
   }
 
-  .menu-container .navlogo__tryscheduling {
-    display: flex !important;
-    margin: 0;
+  .menu-container .mobile-top-logo {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
   }
 
-  .menu-container #mobile-cta-try {
-    display: none !important;
+  .menu-container .mobile-top-logo img {
+    width: 12px;
+    height: auto;
   }
 
   .menu-container .mobile-top-get-started {
     display: inline-flex !important;
+    margin-left: auto;
     align-items: center;
     justify-content: center;
     min-height: 40px;
@@ -53,10 +55,13 @@ body {
     color: #fff;
     text-decoration: none;
     font-weight: 500;
+    white-space: nowrap;
   }
 
   .menu-container .hamburger-icon {
-    margin-left: 8px;
+    margin-left: 0;
+    position: static !important;
+    flex-shrink: 0;
   }
 
   .mobile-menu-container {
@@ -107,6 +112,10 @@ body.mobile-menu-open {
 }
 
 .mobile-top-get-started {
+  display: none;
+}
+
+.mobile-top-logo {
   display: none;
 }
 
