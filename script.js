@@ -1,32 +1,83 @@
 (() => {
-  const menuContainer = document.querySelector('.menu-container');
   const mobileMenuContainer = document.querySelector('.mobile-menu-container');
   const mobileMenuContent = document.querySelector('.mobile-menu-content');
+  const mobileMenuOverlay = document.querySelector('.mobile-menu-overlay');
   const openBtn = document.querySelector('#nav-hamburger-btn');
   const closeBtn = document.querySelector('#mobile-menu-close-btn');
+  const backBtn = document.querySelector('#mobile-menu-back-btn');
+  const navLinksMobile = document.querySelector('#nav-links-mobile');
+  const openProductsBtn = document.querySelector('#open-products-menu-btn');
+  const openResourcesBtn = document.querySelector('#open-resources-menu-btn');
+  const mobileProducts = document.querySelector('#mobile-menu-products');
+  const mobileResources = document.querySelector('#mobile-menu-resources');
+
+  const productsHiddenClass = 'mobile-menu-products--hidden';
+  const resourcesHiddenClass = 'mobile-menu-resources--hidden';
+
+  const resetMobileSubmenus = () => {
+    mobileProducts?.classList.add(productsHiddenClass);
+    mobileResources?.classList.add(resourcesHiddenClass);
+    openProductsBtn?.setAttribute('aria-expanded', 'false');
+    openResourcesBtn?.setAttribute('aria-expanded', 'false');
+    backBtn?.classList.add('back-text--hidden');
+    navLinksMobile?.classList.remove('mobile-menu-primary--submenu-open');
+  };
+
+  const openMobileSubmenu = (type) => {
+    const isProducts = type === 'products';
+    const panel = isProducts ? mobileProducts : mobileResources;
+    const button = isProducts ? openProductsBtn : openResourcesBtn;
+    const hiddenClass = isProducts ? productsHiddenClass : resourcesHiddenClass;
+
+    if (!panel || !button) return;
+
+    const shouldOpen = panel.classList.contains(hiddenClass);
+    resetMobileSubmenus();
+
+    if (!shouldOpen) return;
+
+    panel.classList.remove(hiddenClass);
+    button.setAttribute('aria-expanded', 'true');
+    backBtn?.classList.remove('back-text--hidden');
+    navLinksMobile?.classList.add('mobile-menu-primary--submenu-open');
+  };
 
   const showMobileMenu = () => {
     if (!mobileMenuContainer) return;
-    if (menuContainer) menuContainer.style.display = 'none';
     mobileMenuContainer.classList.add('enter');
     mobileMenuContent?.classList.add('enter');
-    document.body.style.overflow = 'hidden';
+    document.body.classList.add('mobile-menu-open');
+    openBtn?.setAttribute('aria-expanded', 'true');
   };
 
   const hideMobileMenu = () => {
     if (!mobileMenuContainer) return;
     mobileMenuContainer.classList.remove('enter');
     mobileMenuContent?.classList.remove('enter');
-    if (menuContainer) menuContainer.style.display = 'flex';
-    document.body.style.overflow = '';
+    document.body.classList.remove('mobile-menu-open');
+    openBtn?.setAttribute('aria-expanded', 'false');
+    resetMobileSubmenus();
   };
 
   openBtn?.addEventListener('click', showMobileMenu);
   closeBtn?.addEventListener('click', hideMobileMenu);
+  backBtn?.addEventListener('click', resetMobileSubmenus);
+  openProductsBtn?.addEventListener('click', () => openMobileSubmenu('products'));
+  openResourcesBtn?.addEventListener('click', () => openMobileSubmenu('resources'));
+
+  window.addEventListener('resize', () => {
+    if (!window.matchMedia('(max-width: 1024px)').matches) hideMobileMenu();
+  });
+
+  window.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') hideMobileMenu();
+  });
 
   mobileMenuContainer?.addEventListener('click', (event) => {
     if (event.target === mobileMenuContainer) hideMobileMenu();
   });
+
+  mobileMenuOverlay?.addEventListener('click', hideMobileMenu);
 
   // Dropdown behavior (mobile/tablet)
   document.querySelectorAll('.dropdown').forEach((dropdown) => {
@@ -39,19 +90,76 @@
     });
   });
 
-  // Promo interactions
+  // Promo banner interactions
   const promoBanner = document.querySelector('.promo-banner');
   const promoClose = document.querySelector('#promo-banner-close-btn');
   const promoCopy = document.querySelector('.promo-banner-copy-code');
   const promoToast = document.querySelector('.promo-banner-toast');
+  const promoCode = (promoCopy?.textContent || '').trim() || 'A4F20';
+  const promoStorageKey = `acuity_promo_${promoCode}`;
+  const navElement = document.querySelector('.menu-container');
+  const mobileNavElement = document.querySelector('.mobile-menu-header');
+  const heroCarousel = document.querySelector('.hero-carousel');
+  const heroSplit = document.querySelector('.hero-split');
+  const heroBlock = document.getElementById('large-csp-hero-block-wrapper');
+
+  const updatePromoOffsets = () => {
+    if (!promoBanner || promoBanner.classList.contains('hidden')) return;
+    const offset = promoBanner.clientHeight;
+
+    if (navElement) navElement.style.marginTop = `${offset}px`;
+    if (mobileNavElement) {
+      mobileNavElement.style.marginTop = `${offset}px`;
+      mobileNavElement.style.top = `${offset}px`;
+    }
+
+    if (heroCarousel && navElement) {
+      heroCarousel.style.marginTop = `${navElement.clientHeight + offset}px`;
+    }
+    if (heroSplit && navElement) {
+      heroSplit.style.marginTop = `${navElement.clientHeight}px`;
+    }
+    if (heroBlock) {
+      heroBlock.style.marginTop = `${offset}px`;
+    }
+  };
+
+  const clearPromoOffsets = () => {
+    if (navElement) navElement.style.marginTop = '';
+    if (mobileNavElement) {
+      mobileNavElement.style.marginTop = '';
+      mobileNavElement.style.removeProperty('top');
+    }
+    if (heroCarousel && navElement) {
+      heroCarousel.style.marginTop = `${navElement.clientHeight}px`;
+    }
+    if (heroSplit && navElement) {
+      heroSplit.style.marginTop = `${navElement.clientHeight}px`;
+    }
+    if (heroBlock) {
+      heroBlock.style.marginTop = '';
+    }
+  };
+
+  if (promoBanner && !window.localStorage.getItem(promoStorageKey)) {
+    promoBanner.classList.remove('hidden');
+    updatePromoOffsets();
+    window.addEventListener('resize', updatePromoOffsets);
+    window.addEventListener('load', updatePromoOffsets);
+  }
 
   promoClose?.addEventListener('click', () => {
-    promoBanner?.classList.add('hidden');
+    if (!promoBanner) return;
+    window.localStorage.setItem(promoStorageKey, 'true');
+    promoBanner.classList.add('hidden');
+    clearPromoOffsets();
+    window.removeEventListener('resize', updatePromoOffsets);
+    window.removeEventListener('load', updatePromoOffsets);
   });
 
   promoCopy?.addEventListener('click', async () => {
     try {
-      await navigator.clipboard.writeText('A4F20');
+      await navigator.clipboard.writeText(promoCode);
       promoToast?.classList.add('visible');
       setTimeout(() => promoToast?.classList.remove('visible'), 1400);
     } catch (_) {
